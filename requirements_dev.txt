@@ -1,5 +1,5 @@
 pip==26.2
-pylint==1.9.2
+pylint==4.0.9
 bumpversion==0.5.3
 wheel==0.48.0
 watchdog==0.8.3
